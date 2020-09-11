@@ -1,0 +1,9 @@
+package binarySearch;
+
+public class MainTest {
+
+	 public static void main(String[] args) {
+		 BinarySimple binarySimple = new BinarySimple();
+		 binarySimple.twoSum(new int[] {2,11,7,15}, 10);
+	 }
+}
